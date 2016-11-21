@@ -12,3 +12,15 @@ body {
 	max-width: 1140px;
 	margin: 0 auto;
 }
+
+header h1 {
+	float: left;
+}
+
+header ul {
+	float: right;
+}
+
+header ul li {
+	float: left;
+}
