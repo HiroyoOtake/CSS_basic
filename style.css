@@ -71,3 +71,22 @@ header ul li:nth-child(2) {
 	background-repeat: no-repeat;
 	text-indent: 20px;
 }
+
+nav ul {
+	text-align: center;
+}
+
+nav ul li {
+	display: inline-block;
+	margin: 30px 25px 0;
+}
+
+nav ul li a {
+	font-weight: 600;
+	font-size: 20px;
+}
+
+nav ul li a span {
+	display: block;
+	font-size: 60%;
+}
