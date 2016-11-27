@@ -20,6 +20,14 @@ header h1 {
 	margin: 40px 0;
 }
 
+header h1 a{
+	-webkit-transition: .5s; //Chrome,Safari
+	-moz-transition: .5s; //Firefox
+	-ms-transition: .5s; //IE
+	-o-transition: .5s; //Opera
+	transition: .5s;
+}
+
 header h1 a:hover {
 	opacity: .3;
 }
