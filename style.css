@@ -33,5 +33,19 @@ header ul li {
 header ul li a {
 	font-size: 14px;
 	font-weight: 600;
-	color: #9ca29d;"
+	color: #9ca29d;
+}
+
+header ul li:nth-child(1) {
+	background-image: url(images/icon_mail.png);
+	background-position: left;
+	background-repeat: no-repeat;
+	text-indent: 25px;
+}
+
+header ul li:nth-child(2) {
+	background-image: url(images/icon_access.png);
+	background-position: left;
+	background-repeat: no-repeat;
+	text-indent: 20px;
 }
