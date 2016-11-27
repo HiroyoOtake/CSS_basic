@@ -20,6 +20,10 @@ header h1 {
 	margin: 40px 0;
 }
 
+header h1 a:hover {
+	opacity: .3;
+}
+
 header ul {
 	float: right;
 }
@@ -35,6 +39,11 @@ header ul li a {
 	font-weight: 600;
 	color: #9ca29d;
 }
+
+header ul li a:hover {
+	color: #f75a53;
+}
+
 
 header ul li:nth-child(1) {
 	background-image: url(images/icon_mail.png);
