@@ -162,3 +162,35 @@ nav ul li a span {
 	float: right;
 }
 
+.secondary h3{
+	font-size: 16px;
+	font-weight: 600;
+	padding: 20px;
+	background-color: #f6f6f6;
+	margin-bottom: 10px;
+}
+
+.secondary ul li {
+	clear: both;
+	margin-bottom: 30px;
+
+}
+
+.secondary ul li img {
+	width: 30%;
+	float: left;
+}
+
+.secondary ul li .text {
+	width: 65%;
+	float: right;
+}
+
+.secondary ul li .text .day {
+	font-size: 10px;
+	margin-bottom: 10px;
+}
+
+.secondary ul li .text .postCon {
+	font-size: 12px;
+}
